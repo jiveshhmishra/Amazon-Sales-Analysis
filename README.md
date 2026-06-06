@@ -124,7 +124,7 @@ Sports category has the highest discount (13.93%) but ratings are still around 3
 No single payment method dominates - Wallet, UPI, COD, Credit & Debit Card all perform similarly. Good sign for platform flexibility.
 
 **4. Revenue is surprisingly stable month-to-month**
-The monthly trend stays between $2.6M–$2.8M with a February spike - suggesting steady demand rather than seasonal spikes.
+The monthly trend stays between $2.6M-$2.8M with a February spike - suggesting steady demand rather than seasonal spikes.
 
 **5. Overall rating of 3.0/5 is a red flag**
 Consistent across all categories - points to a platform-wide issue with either product quality or delivery experience.
@@ -146,8 +146,9 @@ Always happy to talk data, get feedback, or collaborate!
 
 - 🐙 GitHub: [github.com/jiveshhmishra](https://github.com/jiveshhmishra)
 - 💼 LinkedIn: [linkedin.com/in/jiveshh](https://www.linkedin.com/in/jiveshh/)
+- 🔗 Portfolio: [https://jivesh.carrd.co/)
 
 ---
 
-*Made with Python, SQL & Power BI · 2024*
+*Made with Python, SQL & Power BI · 2026*
 
